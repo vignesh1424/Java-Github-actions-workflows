@@ -1,6 +1,6 @@
 {
     "scripts":{
-        "start":"java Hello",
+        "start":"java HelloWorldResource",
         "test":"jest devops-test-1/HelloWorldResourceTest.java"
     },
     "dependencies":
