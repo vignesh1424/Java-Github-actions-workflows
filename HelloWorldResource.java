@@ -1,6 +1,6 @@
-public class HelloWorldResource{
-    public String message() {
-        return "hello, world";
+public class HelloWorldResource {
+ 
+    public boolean isGreater(int num1, int num2){
+        return num1 > num2;
     }
-
 }
