@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-19T10:30:43" hostname="DESKTOP-2JG3HMO" time="0.156">
+  <properties/>
+  <testcase name="appHasAGreeting()" classname="src.AppTest" time="0.156"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
